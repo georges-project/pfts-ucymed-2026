@@ -1,0 +1,29 @@
+﻿Created At: 2026-05-24T15:08:53Z
+Completed At: 2026-05-24T15:08:53Z
+File Path: `file:///C:/Users/user/.gemini/antigravity/scratch/academic-poster-website/index.html`
+Total Lines: 393
+Total Bytes: 38005
+Showing lines 122 to 253
+The following code has been modified to include a line number before every line, in the format: <line_number>: <original_line>. Please note that any changes targeting the original code should remove the line number, colon, and leading space.
+122:                         <div class="citation-list">
+123:                             <div class="citation-item">
+124:                                 1. Al-Ashkar, F., Mehra, R. and Mazzone, P.J., 2003. Interpreting pulmonary function tests: recognize the pattern, and the diagnosis will follow. <em>Cleveland Clinic Journal of Medicine</em>, 70(10), pp. 866β€“866. Available from: <a href="https://doi.org/10.3949/ccjm.70.10.866" target="_blank" rel="noopener">https://doi.org/10.3949/ccjm.70.10.866</a> [viewed 24 May 2026].
+125:                             </div>
+126:                             <div class="citation-item">
+127:                                 2. Bhakta, N.R., McGowan, A., Ramsey, K.A., Borg, B., Kivastik, J., Knight, S.L., Sylvester, K., Burgos, F., Swenson, E.R., McCarthy, K., Cooper, B.G., GarcΓ­a-RΓ­o, F., Skloot, G., McCormack, M., Mottram, C., Irvin, C.G., Steenbruggen, I., Coates, A.L. and Kaminsky, D.A., 2023. European Respiratory Society/American Thoracic Society technical statement: standardisation of the measurement of lung volumes, 2023 update. <em>European Respiratory Journal</em>, 62(5), p. 2201519. Available from: <a href="https://doi.org/10.1183/13993003.01519-2022" target="_blank" rel="noopener">https://doi.org/10.1183/13993003.01519-2022</a> [viewed 24 May 2026].
+128:                             </div>
+129:                             <div class="citation-item">
+130:                                 3. Borland, C.D.R. and Hughes, M., 2020. Transfer Factor (Tl) for carbon monoxide (CO) and nitric oxide (NO). In: R.L. Ma
+<truncated 17090 bytes>
+                   41. Ξ Ξ±Ξ½Ξ΄Ξ®, Ξ., 2019. <em>Ξ•ΟΞ³ΞΏΟƒΟ€ΞΉΟΞΏΞΌΞµΟ„ΟΞ―Ξ± (VO2 max)</em>. Pneumo.gr. Available from: <a href="https://pneumo.gr/%CE%B5%CF%81%CE%B3%CE%BF%CF%83%CF%80%CE%B9%CF%81%CE%BF%CE%BC%CE%B5%CF%84%CF%81%CE%B9%CE%B1-vo2-max/" target="_blank" rel="noopener">https://pneumo.gr/%CE%B5%CF%81%CE%B3%CE%BF%CF%83%CF%80%CE%B9%CF%81%CE%BF%CE%BC%CE%B5%CF%84%CF%81%CE%B9%CE%B1-vo2-max/</a> [viewed 24 May 2026].
+245:                             </div>
+246:                             <div class="citation-item">
+247:                                 42. Ξ Ξ±Ξ½ΞµΟ€ΞΉΟƒΟ„Ξ®ΞΌΞΉΞΏ ΞΟΞ®Ο„Ξ·Ο‚, Ξ¤ΞΌΞ®ΞΌΞ± Ξ™Ξ±Ο„ΟΞΉΞΊΞ®Ο‚, 2022. <em>Ξ•ΟΞ³ΞΏΟƒΟ€ΞΉΟΞΏΞΌΞµΟ„ΟΞ―Ξ±</em>. Available from: <a href="https://icu.med.uoc.gr/index.php/el/ergospirometria-hid-menu-gr" target="_blank" rel="noopener">https://icu.med.uoc.gr/index.php/el/ergospirometria-hid-menu-gr</a> [viewed 24 May 2026].
+248:                             </div>
+249:                             <div class="citation-item">
+250:                                 43. Ξ£ΞΊΟΟ€Ξ±Ο‚, Ξ’., 2020. <em>ΞΞ±ΟΞ΄ΞΉΞΏΞ±Ξ½Ξ±Ο€Ξ½ΞµΟ…ΟƒΟ„ΞΉΞΊΞ® Ξ΄ΞΏΞΊΞΉΞΌΞ±ΟƒΞ―Ξ± ΞΊΟΟ€Ο‰ΟƒΞ·Ο‚ β€“ Ξ•ΟΞ³ΞΏΟƒΟ€ΞΉΟΞΏΞΌΞµΟ„ΟΞ―Ξ±</em>. Pneumonologos-Skopas.gr. Available from: <a href="https://pneumonologos-skopas.gr/%ce%ba%ce%b1%cf%81%ce%b4%ce%b9%ce%bf%ce%b1%ce%bd%ce%b1%cf%80%ce%bd%ce%b5%cf%85%cf%83%cf%84%ce%b9%ce%ba%ce%b7-%ce%b4%ce%bf%ce%ba%ce%b9%ce%bc%ce%b1%cf%83%ce%b9%ce%b1-%ce%ba%ce%bf%cf%80%cf%89%cf%83%ce%b7/" target="_blank" rel="noopener">https://pneumonologos-skopas.gr/%ce%ba%ce%b1%cf%81%ce%b4%ce%b9%ce%bf%ce%b1%ce%bd%ce%b1%cf%80%ce%bd%ce%b5%cf%85%cf%83%cf%84%ce%b9%ce%ba%ce%b7-%ce%b4%ce%bf%ce%ba%ce%b9%ce%bc%ce%b1%cf%83%ce%b9%ce%b1-%ce%ba%ce%bf%cf%80%cf%89%cf%83%ce%b7/</a> [viewed 24 May 2026].
+251:                             </div>
+252:                         </div>
+253:                     </div>
+The above content does NOT show the entire file contents. If you need to view any lines of the file which were not shown to complete your task, call this tool again to view those lines.
+
